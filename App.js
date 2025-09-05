@@ -15,7 +15,7 @@ import { SafeAreaView, View, Text, TouchableOpacity, StyleSheet, ScrollView, Tex
     </SafeAreaView>
   );
  }
-
+//comentario aleatorio
  function Headers({ pagina, setPagina}){
   return(
     <View style={StyleSheet.Header}>
